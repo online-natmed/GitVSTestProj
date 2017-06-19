@@ -26,5 +26,10 @@ namespace GitTesting.Controllers
 
             return View();
         }
+
+        public ActionResult GitTestPage()
+        {
+            return View();
+        }
     }
 }
